@@ -1,8 +1,8 @@
-# NewsAggregator - Django Web Application
+# News Aggregator - Django Web Application
 
 ## Overview
 
-**NewsAggregator** is a Django-based web application that provides users with an interactive platform to view aggregated news, explore weather predictions, and access informative content. The system uses Django’s robust backend framework with templates, static assets, and a SQLite database for storage.
+**News Aggregator** is a Django-based web application that provides users with an interactive platform to view aggregated news, explore weather predictions, and access informative content. The system uses Django’s robust backend framework with templates, static assets, and a SQLite database for storage.
 
 It offers a clean, responsive interface where users can navigate between pages like Home, About, Weather Prediction, and more.
 
