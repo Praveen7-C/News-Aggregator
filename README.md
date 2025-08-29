@@ -33,7 +33,7 @@ It offers a clean, responsive interface where users can navigate between pages l
 1. **Clone the Repository**
 
 ```bash
-git clone <your_repo_link>
+git clone [<your_repo_link>](https://github.com/Praveen7-C/News-Aggregator.git)
 cd NewsAggregator
 ```
 
